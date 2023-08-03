@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author turbo
- *
- */
-module ticTacToe {
-}
