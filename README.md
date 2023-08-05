@@ -1,7 +1,7 @@
 # Proyectos_Java
 Porfolio con diversos proyectos en Java
 
-***************************************** ABAQUS *****************************************
+********************************************************************* ABAQUS *******************************************************************
 
 Crea una función que sea capaz de leer el número representado por el ábaco.
 		 - El ábaco se representa por un array con 7 elementos.
