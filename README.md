@@ -1,7 +1,7 @@
 # Proyectos_Java
 Porfolio con diversos proyectos en Java
 
-*********************************************************************** ABAQUS *********************************************************************
+************************************************* ABAQUS *************************************************
 
 Crea una función que sea capaz de leer el número representado por el ábaco.
 		 - El ábaco se representa por un array con 7 elementos.
@@ -22,7 +22,7 @@ Crea una función que sea capaz de leer el número representado por el ábaco.
 		   
 		   Resultado: 1.302.790
 
-********************************************************************* TECLADO T9 *******************************************************************
+************************************************* TECLADO T9 *************************************************
 
 Los primeros dispositivos móviles tenían un teclado llamado T9 con el que se
 podía escribir texto utilizando únicamente su teclado numérico (del 0 al 9).
@@ -33,6 +33,6 @@ bloque de pulsaciones va separado por un guión. - Si un bloque tiene más de
 un número, debe ser siempre el mismo. - Ejemplo: Entrada:
 4-2-777-666-7777-3-33-888 Salida: GAROSDEV
 
-****************************************************************** TIC TAC TOE GAME *****************************************************************
+************************************************* TIC TAC TOE GAME *************************************************
 
 Juego de las tres en raya con el ordenador como contrincante
