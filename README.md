@@ -33,6 +33,6 @@ bloque de pulsaciones va separado por un guión. - Si un bloque tiene más de
 un número, debe ser siempre el mismo. - Ejemplo: Entrada:
 4-2-777-666-7777-3-33-888 Salida: GAROSDEV
 
-************************************ TIC TAC TOE GAME ************************************
+****************************************************************** TIC TAC TOE GAME *****************************************************************
 
 Juego de las tres en raya con el ordenador como contrincante
