@@ -22,7 +22,7 @@ Crea una función que sea capaz de leer el número representado por el ábaco.
 		   
 		   Resultado: 1.302.790
 
-*************************************** TECLADO T9 ***************************************
+******************************************************************** TECLADO T9 ******************************************************************
 
 Los primeros dispositivos móviles tenían un teclado llamado T9 con el que se
 podía escribir texto utilizando únicamente su teclado numérico (del 0 al 9).
