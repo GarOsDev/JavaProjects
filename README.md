@@ -36,3 +36,37 @@ un número, debe ser siempre el mismo. - Ejemplo: Entrada:
 ************************************************* TIC TAC TOE GAME *************************************************
 
 Juego de las tres en raya con el ordenador como contrincante
+
+************************************************* CARACTER INFILTRADO *************************************************
+
+Crea una función que reciba dos cadenas de texto casi iguales, a excepción de
+uno o varios caracteres. La función debe encontrarlos y retornarlos en
+formato lista/array. - Ambas cadenas de texto deben ser iguales en longitud.
+ - Las cadenas de texto son iguales elemento a elemento. - No se pueden
+   utilizar operaciones propias del lenguaje que lo resuelvan directamente.
+   
+Ejemplos: 
+- Me llamo mouredev / Me llemo mouredov -> ["e", "o"] 
+- Me llamo.Brais Moure / Me llamo brais moure -> [" ", "b", "m"]
+
+************************************************* EXPRESIONES MATEMÁTICAS *************************************************
+
+Crea una función que reciba una expresión matemática (String) y compruebe si
+es correcta. Retornará true o false.
+
+ - Para que una expresión matemática sea correcta debe poseer un número, una
+   operación y otro número separados por espacios. Tantos números y operaciones
+   como queramos.
+ - Números positivos, negativos, enteros o decimales.
+ - Operaciones soportadas: + - * / %
+
+Ejemplos: "5 + 6 / 7 - 4" -> true "5 a 6" -> false
+
+************************************************* GENERADOR CONTRASEÑAS *************************************************
+
+Escribe un programa que sea capaz de generar contraseñas de forma aleatoria.
+Podrás configurar generar contraseñas con los siguientes parámetros: 
+- Longitud: Entre 8 y 16.
+- Con o sin letras mayúsculas.
+- Con o sin números.
+- Con o sin símbolos. (Pudiendo combinar todos estos parámetros entre ellos)
