@@ -37,7 +37,7 @@ un número, debe ser siempre el mismo. - Ejemplo: Entrada:
 
 Juego de las tres en raya con el ordenador como contrincante
 
-************************************************* CARACTER INFILTRADO *************************************************
+************************************************* CARACTER INFILTRADO **********************************************
 
 Crea una función que reciba dos cadenas de texto casi iguales, a excepción de
 uno o varios caracteres. La función debe encontrarlos y retornarlos en
@@ -49,7 +49,7 @@ Ejemplos:
 - Me llamo mouredev / Me llemo mouredov -> ["e", "o"] 
 - Me llamo.Brais Moure / Me llamo brais moure -> [" ", "b", "m"]
 
-************************************************* EXPRESIONES MATEMÁTICAS *************************************************
+************************************************* EXPRESIONES MATEMÁTICAS ******************************************
 
 Crea una función que reciba una expresión matemática (String) y compruebe si
 es correcta. Retornará true o false.
