@@ -123,3 +123,10 @@ Escribe un programa que, dado un número, compruebe y muestre si es primo, fibon
 ******************************************* PIEDRA-PAPEL-TIJERA ****************************************************
 
 Minijuego en consola de piedra/papel/tijera contra el ordenador
+
+******************************************* ESCALERA ****************************************************
+
+Crea una función que dibuje una escalera según su número de escalones. 
+	- Si el número es positivo, será ascendente de izquiera a derecha. 
+	- Si el número es negativo, será descendente de izquiera a derecha. 
+	- Si el número es cero, se dibujarán dos guiones bajos (__).
